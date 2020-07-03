@@ -14,6 +14,11 @@ class Home extends BaseController
 		echo view('pages/sigin', $data);
 	}
 
+	public function works()
+	{
+		
+	}
+
 	//--------------------------------------------------------------------
 
 }
