@@ -1,0 +1,26 @@
+body {
+  font-family: 'Nunito', sans-serif;
+}
+
+.carousel-inner img {
+  -webkit-filter: brightness(40%);
+  filter: brightness(40%);
+}
+
+.size-icon {
+  font-size: 80px;
+}
+
+.step-who-work {
+  font-size: 50px !important;
+}
+
+.title-card {
+  font-size: 20px;
+}
+
+.bg-page {
+  background: url('https://anketolog.ru/img/login/bg.jpg') no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
